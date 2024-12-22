@@ -29,7 +29,8 @@
 </ul>
 <h2>💡 A Word to Fellow Problem Solvers</h2>
 <h4>To anyone on this journey: Remember, every problem solved is a step closer to mastery. Take your time, embrace the struggle, and celebrate every win—big or small.</h4>
-
+<hr>
 <h3>Let’s keep climbing and conquering! 🔥</h3>
-
+<hr>
 <h1>Happy coding, legends! ✨</h1>
+<hr>
