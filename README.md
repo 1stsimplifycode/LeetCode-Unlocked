@@ -1,4 +1,5 @@
 <h1>🏆 Cracked 1583 LeetCode Problems!</h1>
+<hr>
 <h2></h2>Hey, awesome coders! 👋</h2>
 <hr>
 <h2>🌟 Big news: We’ve officially solved 1583 LeetCode problems — an incredible journey of grit, growth, and geeky glory! 🚀</h2>
